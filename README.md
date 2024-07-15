@@ -11,8 +11,8 @@
 
 [![Portfolio](https://img.shields.io/badge/Feel_free_to_check_out_my_PortFolio-jaser%2Etech-grey?style=for-the-badge&logo=Scribd&labelColor=013243&color=bf2004)](https://jaser-portfolio.netlify.app/)  
 [![Resume](https://img.shields.io/badge/Here's_my_updated_resume-Syed%20Jaser-blue?style=for-the-badge&logo=Sega&labelColor=0d182b)](https://drive.google.com/file/d/1fVjtAp3l3i_vKTRlCSGV6OiTpIlmsFFS/view?usp=sharing)  
-[![Organisation](https://img.shields.io/badge/Organisation\Collection_of_all_my_projects-OpenSorcerer-white?style=for-the-badge&logo=Opera&labelColor=1d182b)](https://github.com/syedahmedullah14)  
-[![Email](https://img.shields.io/badge/Reach_out_to_me_at_-syedahmedullahjaser@gmail.com-purple?style=for-the-badge&logo=Scribd&labelColor=2f182b)](mailto:syedahmedullahjaser@gmail.com)
+[![Organisation](https://img.shields.io/badge/Collection_of_all_my_projects-OpenSorcerer-white?style=for-the-badge&logo=Opera&labelColor=1d182b)](https://github.com/syedahmedullah14)  
+[![Email](https://img.shields.io/badge/Reach_out_to_me_@_-syedahmedullahjaser@gmail.com-purple?style=for-the-badge&logo=Scribd&labelColor=2f182b)](mailto:syedahmedullahjaser@gmail.com)
 - :crystal_ball: &nbsp;I’m currently toying with 3D UI Designs & Web Technology Frameworks  
   &nbsp; &nbsp; &nbsp; _"Building the future of Web with a dynamic & intuitive UX, one `div` at a time"_
 - 💬 Ask me about ReactJS, Next.js, TypeScript etc.  
