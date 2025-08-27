@@ -20,15 +20,15 @@
   
 ### 🌟 What I Do:
 
--   Design and develop scalable web applications
+-   Design and develop scalable software solutions for B2B
 -   Implement robust authentication and validation systems
 -   Ensure data integrity and security in transaction-based applications
 -   Lead and mentor development teams to deliver high-quality software solutions
 
 ### 💼 Professional Experience:
 
+-   **Snowbotix:** Software Architect
 -   **Tata Consultancy Services (TCS):** Full Stack Developer
--   **IntElligence Tech Solutions:** Founder & CEO
   
 <br/>
 <div id="connect">
